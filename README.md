@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![GitHub top language](https://img.shields.io/github/languages/top/glaylson87/Projeto-Random)
 ![GitHub repo size](https://img.shields.io/github/repo-size/glaylson87/Projeto-Random)
-![License](https://img.shields.io/github/license/glaylson87/Projeto-Random)
+
 
 ## 📌 Descrição
 
